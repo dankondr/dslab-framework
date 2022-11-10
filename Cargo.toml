@@ -1,7 +1,7 @@
 [package]
 name = "dslab-framework"
 version = "0.1.0"
-authors = "Daniil Kondratev <dankondr@icloud.com"
+authors = ["Daniil Kondratev <dankondr@icloud.com"]
 license = "MIT"
 readme = "README.md"
 edition = "2021"
