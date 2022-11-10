@@ -1,0 +1,13 @@
+[package]
+name = "dslab-framework"
+version = "0.1.0"
+authors = "Daniil Kondratev <dankondr@icloud.com"
+license = "MIT"
+readme = "README.md"
+edition = "2021"
+repository = "https://github.com/dankondr/dslab-framework"
+description = "Framework for development of reliable heavy-concurrent production-ready distributed systems in Rust."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
